@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1776548829040,
+      "tag": "0000_bouncy_speed",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1776687949062,
+      "tag": "0001_legal_roxanne_simpson",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1777127048164,
+      "tag": "0002_late_calypso",
+      "breakpoints": true
+    }
+  ]
+}
