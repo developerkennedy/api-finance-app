@@ -13,6 +13,15 @@ dist/
 .idea/
 .vscode/
 
+## IDE Settings
+CLAUDE.md
+.claude/
+.codex/
+.gemini/
+.qwen/
+.cursor/
+.antigravity/
+
 # OS
 .DS_Store
 Thumbs.db
